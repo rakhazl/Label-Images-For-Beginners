@@ -11,3 +11,17 @@ $~$
 $~$
 ## Step 3 : Install LabelImg
 ### 1. Open your virtual environment, and typing <code>pip install labelImg</code>
+    pip install labelImg
+### Please wait until it finishes![](https://github.com/rakhazl/Label-Images-For-Beginners/blob/main/Ducomentation%20Tutor.png)
+$~$
+### 2. Typing <code>labelImg</code>
+    labelImg
+### 3. Open Dir, Select Folder
+### 4. Anotate 
+### 5. Save, Select Folder
+$~$ 
+### Open CMD again, Typing <code>labelImg [IMAGE_PATH] [PRE-DEFINED CLASS FILE]</code>
+    labelImg [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
+### example, 
+    labelImg "C:\For Labeling\ex Images" "C:\For Labeling\ex Anotate\classes.txt" "C:\For Labeling\ex Anotate"
+### Continue with annotating
