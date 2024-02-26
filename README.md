@@ -90,7 +90,7 @@ $~$
 ### Save as <code>data.yaml</code>
 $~$
 ## Step 5 : Train Your Data 
-### ![This is for training YOLO] (https://docs.ultralytics.com/modes/train/) :rocket:
+### ![This is for training YOLO](https://docs.ultralytics.com/modes/train/) :rocket:
 $~$
 ### example for training <code>YOLOV8</code>, choose <code>yolov8n.pt</code> or <code>yolov8s.pt</code> or <code>yolov8l.pt</code> or etc
     yolo detect train data=coco128.yaml model=yolov8n.pt epochs=100 imgsz=640
